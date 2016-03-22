@@ -1,0 +1,28 @@
+name: kateschutt
+favicon: null
+layout_spectrum: 0.3451800583861768
+typography_spectrum: 0.6326632315758616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9531831513158977
+  lightness: 0.8431419860571623
+  saturation: 0.07008427893742919
+  rhythmicContrast: 0.839599737431854
+purpose: []
